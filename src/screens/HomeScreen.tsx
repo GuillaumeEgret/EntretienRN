@@ -14,17 +14,9 @@ export const HomeScreen = () => {
   const [movies, setMovies] = useState<Movie[]>([]);
 
   useEffect(() => {
-    const fetchMovies = async () => {
-      try {
-        const response = await fetch(API_URL);
-        const json = await response.json();
-        setMovies(json.results);
-      } catch (error) {
-        console.error('Error fetching movies:', error);
-      }
-    };
-
-    fetchMovies();
+    fetch(API_URL)
+      .then((response) => response.json())
+      .then((data) => setMovies(data.results));
   }, []);
 
   const renderItem = ({ item }: { item: Movie }) => (
