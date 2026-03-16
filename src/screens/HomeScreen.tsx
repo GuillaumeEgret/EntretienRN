@@ -12,12 +12,18 @@ type Movie = {
 
 export const HomeScreen = () => {
   const [movies, setMovies] = useState<Movie[]>([]);
+  const [nbMovies, setNbMovies] = useState<number>();
 
   useEffect(() => {
     fetch(API_URL)
       .then((response) => response.json())
       .then((data) => setMovies(data.results));
   }, []);
+
+  useEffect(() => {
+    const n = movies.length;
+    setNbMovies(n);
+  }, [movies]);
 
   const renderItem = ({ item }: { item: Movie }) => (
     <View style={styles.item}>
@@ -28,6 +34,9 @@ export const HomeScreen = () => {
   return (
     <SafeAreaView style={styles.container}>
       <Text style={{ alignSelf: 'center', fontSize: 20 }}>Recent movies</Text>
+      <Text style={{ paddingBottom: 20, paddingTop: 20, paddingLeft: 20 }}>
+        Number of movies: {nbMovies}
+      </Text>
 
       <FlatList
         data={movies}
