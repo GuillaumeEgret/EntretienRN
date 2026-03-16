@@ -1,0 +1,395 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/yJi6g0CnsqANLNuVaRX28tZxeHX.jpg",
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "id": 1193501,
+        "original_language": "en",
+        "original_title": "Whistle",
+        "overview": "Un groupe d'élèves inadaptés découvre par hasard un objet maudit, un ancien Sifflet de la Mort aztèque. Ils découvrent qu'en soufflant dans le sifflet, le son terrifiant qu'il émet fera venir leurs morts futures pour les traquer.",
+        "popularity": 147.7604,
+        "poster_path": "/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
+        "release_date": "2026-03-18",
+        "title": "Le Sifflet",
+        "video": false,
+        "vote_average": 6.128,
+        "vote_count": 129
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
+        "genre_ids": [
+            16,
+            10751,
+            878,
+            35
+        ],
+        "id": 1327819,
+        "original_language": "en",
+        "original_title": "Hoppers",
+        "overview": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.",
+        "popularity": 139.8558,
+        "poster_path": "/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg",
+        "release_date": "2026-03-04",
+        "title": "Jumpers",
+        "video": false,
+        "vote_average": 7.73,
+        "vote_count": 150
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
+        "genre_ids": [
+            9648,
+            18,
+            27
+        ],
+        "id": 680493,
+        "original_language": "en",
+        "original_title": "Return to Silent Hill",
+        "overview": "Lorsqu’il reçoit une mystérieuse lettre de Mary, son amour perdu, James est attiré vers Silent Hill, une ville autrefois familière, aujourd’hui engloutie par les ténèbres.En partant à sa recherche, James affronte des créatures monstrueuses et découvre une vérité terrifiante qui le poussera aux limites de la folie.",
+        "popularity": 103.4239,
+        "poster_path": "/hm4HgeeQsPgsxkPU3wxZvosI5Dh.jpg",
+        "release_date": "2026-02-04",
+        "title": "Retour à Silent Hill",
+        "video": false,
+        "vote_average": 5.052,
+        "vote_count": 261
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jtUHnlGbcq70uHLJ36ZnkF5MJdc.jpg",
+        "genre_ids": [
+            27,
+            878,
+            35
+        ],
+        "id": 696393,
+        "original_language": "en",
+        "original_title": "Cold Storage",
+        "overview": "Il y a plusieurs dizaines d'années, un micro-organisme hautement infectieux et en constante mutation - capable d'une destruction de niveau extinction - a été contenu dans une installation militaire. Aujourd'hui, l'armée a scellé le sous-sol le plus bas de l'installation et a vendu l'espace restant à une société de self-stockage. Alors que la température augmente sous terre, le micro-organisme trouve un moyen de s'échapper. Si on le laisse se propager, il va bientôt se multiplier de manière incontrôlée dans le monde entier. Le sort de l'humanité repose maintenant sur un agent de bioterrorisme à la retraite et deux héros improbables employés dans l'installation - qui sont pris dans une course contre la montre pour détruire l'organisme et sauver l'humanité.",
+        "popularity": 96.2965,
+        "poster_path": "/fYmWNUzuP0O4EGGhLuE8Qnfrdqp.jpg",
+        "release_date": "2026-02-18",
+        "title": "Cold Storage",
+        "video": false,
+        "vote_average": 6.511,
+        "vote_count": 134
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
+        "genre_ids": [
+            27,
+            9648,
+            80
+        ],
+        "id": 1159559,
+        "original_language": "en",
+        "original_title": "Scream 7",
+        "overview": "Lorsqu’un nouveau Ghostface surgit dans la paisible ville où Sidney Prescott a reconstruit sa vie, ses pires cauchemars refont surface. Alors que sa fille devient la prochaine cible, Sidney n’a d’autre choix que de reprendre le combat. Déterminée à protéger les siens, elle doit alors affronter les démons de son passé pour tenter de mettre fin une bonne fois pour toutes au bain de sang.",
+        "popularity": 95.8309,
+        "poster_path": "/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
+        "release_date": "2026-02-25",
+        "title": "Scream 7",
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 284
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5hH7QiEPOiz7aGa4eJce74kZkO1.jpg",
+        "genre_ids": [
+            878,
+            27,
+            14
+        ],
+        "id": 1159831,
+        "original_language": "en",
+        "original_title": "The Bride!",
+        "overview": "Un Frankenstein esseulé se rend dans le Chicago des années 30 afin de convaincre la brillante scientifique Dr Euphronious de lui concevoir une compagne. Les deux ressuscitent une jeune femme assassinée et La fiancée voit le jour. Et ce qui suit dépasse toutes leurs attentes : Meurtre ! Possession ! Un mouvement culturel déchaîné et radical ! Et des amants rebelles dans une romance sauvage et explosive !",
+        "popularity": 73.6679,
+        "poster_path": "/x6XBJG5RGeRqT88BH1HjCVOifkU.jpg",
+        "release_date": "2026-03-04",
+        "title": "The Bride!",
+        "video": false,
+        "vote_average": 6.283,
+        "vote_count": 143
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+        "genre_ids": [
+            878,
+            12,
+            9648
+        ],
+        "id": 687163,
+        "original_language": "en",
+        "original_title": "Project Hail Mary",
+        "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
+        "popularity": 70.7127,
+        "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
+        "release_date": "2026-03-15",
+        "title": "Projet dernière chance",
+        "video": false,
+        "vote_average": 9,
+        "vote_count": 8
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg",
+        "genre_ids": [
+            18
+        ],
+        "id": 1317288,
+        "original_language": "en",
+        "original_title": "Marty Supreme",
+        "overview": "Marty Mauser, 23 ans, aspire à devenir le meilleur athlète sur la scène mondiale du tennis de table. Le sport est sous-représenté aux États-Unis, ce qui rend difficile le financement de ses compétitions à l'étranger. Il est toutefois prêt à tout pour arriver à ses fins, y compris nouer des liens avec une ancienne actrice et son riche mari entrepreneur. Son entêtement pose un problème pour les personnes de son entourage, qui font souvent les frais de ses choix cavaliers.",
+        "popularity": 58.5726,
+        "poster_path": "/hjrvtc7UCrnsypfnLJuxx9ODKCi.jpg",
+        "release_date": "2026-02-18",
+        "title": "Marty Supreme",
+        "video": false,
+        "vote_average": 7.501,
+        "vote_count": 1249
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "id": 1316092,
+        "original_language": "en",
+        "original_title": "\"Wuthering Heights\"",
+        "overview": "Sur les landes balayées par le vent du Yorkshire, la passion dévorante entre Catherine Earnshaw et Heathcliff se transforme en une obsession destructrice, bouleversant leurs vies et celles de leur entourage.​",
+        "popularity": 56.3852,
+        "poster_path": "/yEa8UQA71rjKhCq04mATDNOIT2B.jpg",
+        "release_date": "2026-02-11",
+        "title": "“Hurlevent”",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 482
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
+        "genre_ids": [
+            16,
+            35,
+            10751
+        ],
+        "id": 1297842,
+        "original_language": "en",
+        "original_title": "GOAT",
+        "overview": "Will est un petit bouc avec de grands rêves. Lorsqu'il décroche une chance inespérée de rejoindre la ligue professionnelle de \"roarball\", un sport ultra-intense réservé aux bêtes les plus rapides et féroces, il entend bien saisir l’opportunité. Problème : ses nouveaux coéquipiers ne sont pas vraiment ravis d'avoir un \"petit\" dans l'équipe. Mais Will est prêt à tout pour changer les règles du jeu.",
+        "popularity": 48.9434,
+        "poster_path": "/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
+        "release_date": "2026-02-11",
+        "title": "GOAT : Rêver plus haut",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 102
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/jZNR5onRZijwyGr5iWbs3J9QcYr.jpg",
+        "genre_ids": [
+            36,
+            18,
+            10402
+        ],
+        "id": 1401281,
+        "original_language": "en",
+        "original_title": "The Testament of Ann Lee",
+        "overview": "Au XVIIIe siècle, à Manchester, Ann Lee devient la mère spirituelle des Shakers, un mouvement religieux prônant la chasteté et l'égalité entre les sexes, et dont les prières s'expriment par la danse. Persécutée en Angleterre, la jeune femme charismatique part s'établir avec ses disciples dans le Nouveau Monde, quelques années avant la révolution américaine.",
+        "popularity": 34.1868,
+        "poster_path": "/aMgibEZnV0LvSfCdi1ow2yVVvbH.jpg",
+        "release_date": "2026-03-11",
+        "title": "Le Testament d’Ann Lee",
+        "video": false,
+        "vote_average": 7.109,
+        "vote_count": 32
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bpp58yHuQmpt6xwggI63mVRw7po.jpg",
+        "genre_ids": [
+            27,
+            53,
+            35
+        ],
+        "id": 1198994,
+        "original_language": "en",
+        "original_title": "Send Help",
+        "overview": "Linda Liddle est maltraitée depuis toujours par son patron macho et sexiste, Bradley Preston. Leur relation conflictuelle atteint un nouveau degré lorsque Linda et Bradley se retrouvent coincés sur une île déserte, suite à l'écrasement en mer de l'avion privé qui les transportait. Pour ces deux collègues que tout oppose, l’heure semble venue de surmonter les griefs du passé et d'unir leurs forces pour tenter de survivre. Mais leur combat prend très vite la forme d'une ultime épreuve de force, où chacun tente de se venger de l’autre.",
+        "popularity": 33.7399,
+        "poster_path": "/q2pKtvYYYVPGO01kSvUjJLdFlPa.jpg",
+        "release_date": "2026-02-11",
+        "title": "Send Help",
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 359
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "id": 1582770,
+        "original_language": "hi",
+        "original_title": "धुरंधर: द रिवेंज",
+        "overview": "Hamza Ali Mazari n’existe pas. Derrière ce nom se cache Jaskirat Singh Rangi, infiltré au cœur du monde criminel pakistanais. Sa cible : Majo, un fantôme insaisissable.",
+        "popularity": 28.3878,
+        "poster_path": "/jvAEt2mqWdY0sUNybtVFelRzMnZ.jpg",
+        "release_date": "2026-03-18",
+        "title": "Dhurandhar : The Revenge",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/5rxEnsgriw8z065q51lrvPKYmCL.jpg",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 1367642,
+        "original_language": "en",
+        "original_title": "Reminders of Him",
+        "overview": "Après  sept ans en prison, Kenna Rowan revient dans sa ville natale dans l'espoir de retrouver sa fille.",
+        "popularity": 27.3374,
+        "poster_path": "/94qmYp2SOGk2j5NHfKrYg0Fkqhp.jpg",
+        "release_date": "2026-03-18",
+        "title": "Reminders of Him",
+        "video": false,
+        "vote_average": 8.3,
+        "vote_count": 6
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/vuUDwAi9UgLyNN9xZLtKTaLQWnl.jpg",
+        "genre_ids": [
+            35,
+            80,
+            53
+        ],
+        "id": 639988,
+        "original_language": "ko",
+        "original_title": "어쩔수가없다",
+        "overview": "Cadre dans une usine de papier You Man-su est un homme heureux, il aime sa femme, ses enfants, ses chiens, sa maison.  Lorsqu’il est licencié, sa vie bascule, il ne supporte pas l’idée de perdre son statut social et la vie qui va avec.  Pour retrouver son bonheur perdu, il n’ a aucun  autre choix que d’éliminer tous ses concurrents…",
+        "popularity": 15.9897,
+        "poster_path": "/qLaTBpiG8morQgU7kHLcrCKDZkA.jpg",
+        "release_date": "2026-02-11",
+        "title": "Aucun autre choix",
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 799
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/bcw0QrKe9cM7MbjypxMPFdT6hrM.jpg",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "id": 1140498,
+        "original_language": "en",
+        "original_title": "Is This Thing On?",
+        "overview": "Le mariage d’Alex et Tess ne tient plus qu’à un fil. Alex doit soudain affronter les doutes de la cinquantaine et la menace d’un divorce imminent. A la recherche d’un nouveau souffle, il se lance dans le milieu du stand-up new-yorkais, tandis que Tess remet en question les sacrifices qu’elle a faits pour leur famille... Ils vont devoir composer avec la coparentalité, questionner leurs propres envies et répondre à une interrogation essentielle : l’amour peut-il prendre une nouvelle forme ?",
+        "popularity": 14.0357,
+        "poster_path": "/yl4Px3QgHIC9IXhvpNUlXBIn5yn.jpg",
+        "release_date": "2026-02-25",
+        "title": "Is This Thing On?",
+        "video": false,
+        "vote_average": 6.521,
+        "vote_count": 71
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/euoXeFAOt9o7yAWA9zGZk7DdZWZ.jpg",
+        "genre_ids": [
+            18,
+            35
+        ],
+        "id": 1208348,
+        "original_language": "en",
+        "original_title": "Rental Family",
+        "overview": "Campé dans le Tokyo d’aujourd’hui, un acteur américain en crise professionnelle, embauché par une agence japonaise de « famille à louer », un emploi étrange qui lui fait jouer différents rôles auprès de parfaits inconnus. Plongeant dans le monde ses clients, il commence à former de véritables liens qui brouillent la frontière entre la fiction et la réalité. Face aux questions morales soulevées par son travail, il redécouvre un but, un sentiment d’appartenance et la beauté discrète des connexions humaines.",
+        "popularity": 13.4124,
+        "poster_path": "/7y4MMgdikoGMvQX8oEJNKMASUWr.jpg",
+        "release_date": "2026-02-04",
+        "title": "Rental Family",
+        "video": false,
+        "vote_average": 7.764,
+        "vote_count": 552
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/gqGQ0zADV5FIcgMWtWX8FcGQjFp.jpg",
+        "genre_ids": [
+            27,
+            878,
+            9648
+        ],
+        "id": 1116201,
+        "original_language": "en",
+        "original_title": "Iron Lung",
+        "overview": "Les étoiles ne sont plus. Les planètes ont disparu. Seuls quelques individus subsistent, à bord de stations spatiales ou de vaisseaux errants. Ils ont survécu pour assister à la fin — et lui donner un nom : « Le Rapt silencieux ». Après des années de déclin et d’infrastructures en perdition, l’Iron Consolidation fait une découverte sur une lune désolée, AT-5. Un océan de sang. L’Iron Consolidation lance immédiatement une expédition, avec l’espoir d’y trouver des ressources cruciales. Un sous-marin est construit, et un condamné y est enfermé. En raison de la pression et de la profondeur de l’océan, l’hublot frontal du sous-marin est masqué par un bouclier de métal. S’il s’en sort, il gagnera sa liberté. Sinon, un autre suivra.",
+        "popularity": 13.5175,
+        "poster_path": "/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+        "release_date": "2026-02-19",
+        "title": "Iron Lung",
+        "video": false,
+        "vote_average": 7.2,
+        "vote_count": 108
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/rBYrtkAy9YtRuFpX1g6JbcjRT8h.jpg",
+        "genre_ids": [
+            10749,
+            18,
+            35
+        ],
+        "id": 1287141,
+        "original_language": "en",
+        "original_title": "Pillion",
+        "overview": "Colin, un jeune homme sans histoire, rencontre Ray, le leader charismatique d'un club de motards. Il l'introduit dans sa communauté queer et fait de Colin son soumis.",
+        "popularity": 11.6691,
+        "poster_path": "/y92sV0uJiBp7RR02R7yfi6jIyvP.jpg",
+        "release_date": "2026-03-04",
+        "title": "Pillion",
+        "video": false,
+        "vote_average": 6.192,
+        "vote_count": 112
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/g4dglmohwnvl1yCYObZjmxZY9Do.jpg",
+        "genre_ids": [
+            80,
+            9648
+        ],
+        "id": 1398486,
+        "original_language": "fr",
+        "original_title": "Maigret et le mort amoureux",
+        "overview": "Le commissaire Maigret, appelé en urgence au Quai d’Orsay, s’y rend avec le commandant Janvier. Ils y trouvent Mademoiselle Larrieu en état de choc. Le matin même, elle a découvert le corps criblé de balles de Monsieur Berthier-Lagès, ancien ambassadeur renommé dont elle est la domestique depuis 46 ans. Dans l’appartement de la victime, Maigret et Janvier mettent la main sur des milliers de lettres. Le diplomate entretenait depuis cinquante ans une correspondance amoureuse avec la princesse de Vuynes, dont le mari, étrange coïncidence, vient de décéder. En se confrontant aux membres des deux familles et au mutisme suspect de Mademoiselle Larrieu, Maigret va aller de surprise en surprise....",
+        "popularity": 9.2976,
+        "poster_path": "/t7KsplyJOPYvQitQmgVixVz8vpL.jpg",
+        "release_date": "2026-02-18",
+        "title": "Maigret et le mort amoureux",
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 12
+    }
+]
