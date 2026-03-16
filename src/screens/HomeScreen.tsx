@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { FlatList, StyleSheet, Text, View } from 'react-native';
+import { FlatList, Image, StyleSheet, Text, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 const API_KEY = '1d868d05865a228a5fb2fc24c37d7b36';
@@ -27,6 +27,10 @@ export const HomeScreen = () => {
 
   const renderItem = ({ item }: { item: Movie }) => (
     <View style={styles.item}>
+      <Image
+        source={{ uri: `https://image.tmdb.org/t/p/w500${item.poster_path}` }}
+        style={styles.image}
+      />
       <Text style={styles.title}>{item.title}</Text>
     </View>
   );
@@ -62,5 +66,10 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 16,
     flexShrink: 1,
+  },
+  image: {
+    width: 50,
+    height: 75,
+    marginRight: 10,
   },
 });
